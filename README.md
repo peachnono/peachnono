@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicole Hordejan
-- 👀 I’m interested in Javascript and Web Design
+- 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning Information Technology (Major in Computer Science)
 - 📫 How to reach me: nhordejan@gmail.com or niikawl on discord
 
