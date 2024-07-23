@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Nicole
 
-I'm an aspiring full-stack developer with a front-end bias, a keen eye for design, and a love for creating intuitive user interactions and experiences. My expertise lies in building responsive, high-performance web applications using modern technologies.
+I'm an aspiring full-stack developer with a front-end bias, a keen eye for design, and a love for creating intuitive user interactions and experiences. My aimed expertise lies in building responsive, high-performance web applications using modern technologies.
 
 I'm currently studying a Bachelor of Information Technology (Major in Computer Science, Minors in IoT and Mobile Technologies and User Interaction) at Queensland University of Technology.
 
