@@ -3,9 +3,38 @@ I'm a passionate front-end developer with a keen eye for design and a love for c
 
 🛠️ Skills and Technologies:
 
-PROGRAMMING: Javascript, Typescript, Markdown, Bash, Python, SQL, C#, Java
-WEB DEVELOPMENT: HTML, CSS, React, P5Js, NextJS, NodeJS, ExpressJS
-VERSION CONTROL AND COLLABORATION: Git, Github, Trello, Agile practices
+Programming:
+JavaScript
+TypeScript
+Markdown
+Bash
+Python
+SQL
+C#
+Java
+Web Development:
+
+HTML
+CSS
+React
+P5.js
+Next.js
+Node.js
+Express.js
+Version Control and Collaboration:
+
+Git
+GitHub
+Trello
+Agile practices
+Design:
+
+UI/UX Principles
+Canva
+Figma
+Adobe Illustrator
+Adobe Photoshop
+
 DESIGN: UI/UX Principles, Canva, Figma, Adobe Illustrator, Adobe Photoshop
 
 🌟 What I'm Working On:
