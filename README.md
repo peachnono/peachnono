@@ -4,7 +4,7 @@ I'm an aspiring full-stack developer with a front-end bias, a keen eye for desig
 
 I'm currently studying a Bachelor of Information Technology (Major in Computer Science, Minors in IoT and Mobile Technologies and User Interaction) at Queensland University of Technology.
 
-📫 Feel free to reach out to me at [nhordejan@gmail.com](mailto:nhordejan@gmail.com) or find me on discord at [niikawl](discordapp.com/users/niikawl). Check out my portfolio at [planetnono.online](https://www.planetnono.online/).
+📫 Feel free to reach out to me at [nhordejan@gmail.com](mailto:nhordejan@gmail.com) or find me on discord at [niikawl](discord.com/users/niikawl). Check out my portfolio at [planetnono.online](https://www.planetnono.online/).
 
 ---
 
