@@ -2,6 +2,7 @@ Hi there! 👋 I'm Nicole
 I'm a passionate front-end developer with a keen eye for design and a love for creating intuitive user interactions/experiences. My expertise lies in building responsive, high-performance web applications using modern technologies.
 
 🛠️ Skills and Technologies:
+
 PROGRAMMING: Javascript, Typescript, Markdown, Bash, Python, SQL, C#, Java
 WEB DEVELOPMENT: HTML, CSS, React, P5Js, NextJS, NodeJS, ExpressJS
 VERSION CONTROL AND COLLABORATION: Git, Github, Trello, Agile practices
