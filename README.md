@@ -35,7 +35,6 @@ Figma
 Adobe Illustrator
 Adobe Photoshop
 
-DESIGN: UI/UX Principles, Canva, Figma, Adobe Illustrator, Adobe Photoshop
 
 🌟 What I'm Working On:
 Currently developing a Developer Personality Test for project nights at Code Network. Also, procrastinating on updating my portfolio website.
