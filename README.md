@@ -55,7 +55,7 @@ I'm currently studying a Bachelor of Information Technology (Major in Computer S
 
 #### 🌟 What I'm Working On
 
-Currently developing a Developer Personality Test for project nights at Code Network. Also, trying to find time to update my portfolio website.
+Making cool and fun stuff with the arduino for one of my design classes.
 
 ---
 
