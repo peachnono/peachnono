@@ -55,7 +55,7 @@ I'm currently studying a Bachelor of Information Technology (Major in Computer S
 
 #### 🌟 What I'm Working On
 
-Making cool and fun stuff with the arduino for one of my design classes.
+Currently working on my portfolio website.
 
 ---
 
