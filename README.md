@@ -55,7 +55,7 @@ I'm currently studying a Bachelor of Information Technology (Major in Computer S
 
 #### 🌟 What I'm Working On
 
-Currently working on my portfolio website.
+Currently working on my capstone
 
 ---
 
